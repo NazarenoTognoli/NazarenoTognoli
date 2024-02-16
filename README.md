@@ -1,10 +1,10 @@
 <h1>I am Nazareno Tognoli, About me:</h1>
 <h3>Techs:</h3>
-<li>
-  <ul>Javascript</ul>
-  <ul>Python</ul>
-  <ul>Node</ul>
-</li>
+<ul>
+  <li>Javascript</li>
+  <li>Python</li>
+  <li>Node</li>
+</ul>
 
 <!--
 **NazarenoTognoli/NazarenoTognoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

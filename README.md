@@ -1,22 +1,21 @@
-<h1>I am Nazareno Tognoli, About me:</h1>
-<h3>Techs:</h3>
-<ul>
-  <li>Javascript</li>
-  <li>Python</li>
-  <li>Node</li>
-</ul>
-
-<!--
-**NazarenoTognoli/NazarenoTognoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am currently working on self-directed projects, with some of them being publicly available in my repositories. I aim to showcase my skills and experience through these projects.
+- I'm constantly learning new things and working hard to improve a broad range of skills
+- My technology stack, for those interested, includes:
+  - HTML, CSS, Javascript
+  - JQuery (learning)
+  - Typescript and Angular (learning)
+  - Node and Express
+  - SQL / MySQL
+  - Bootstrap (Learnnig)
+  - PHP (I am currently learning)
+  - My learning path for the near future includes:
+    - C#
+    - .net
+    - asp .net core
+    - NGINX
+    - Laravel
+    - MongoDB
+    - PostgreSQL
+    - Docker
+  - After learning these technologies, even if it is just scratching the surface of them, I want to enter into the field of Data Science and combine it with the deegre of Industrial Engineering
+- In summary, I am deeply committed to enhancing my skills both as a programmer and as an individual, encompassing a diverse range of knowledge beyond just software development.

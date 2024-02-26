@@ -1,4 +1,4 @@
-<img src="banner22.jpg"></img>
+<img src="banner3.jpg"></img>
 - I am currently working on self-directed projects, with some of them being publicly available in my repositories. I aim to showcase my skills and experience through these projects.
 - I'm constantly learning new things and working hard to improve a broad range of skills
 - My technology stack, for those interested, includes:

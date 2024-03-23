@@ -6,20 +6,9 @@
 - I am deeply committed to enhancing my skills both as a programmer and as an individual, encompassing a diverse range of knowledge beyond just software development.
 ## My technology stack, for those interested, includes:
 - HTML, CSS, Javascript
-- JQuery (learning)
-- Typescript and Angular (learning)
 - Node and Express
-- SQL / MySQL
-- Bootstrap (Learnnig)
-- PHP (I am currently learning)
-- My learning path for the near future includes:
-  - C#
-  - .net
-  - asp .net core
-  - NGINX
-  - Laravel
-  - MongoDB
-  - PostgreSQL
-  - Docker
+- SQL / MySQL / ORM Sequelize
+- React
+- Webpack and its common dependencies
 
 After learning these technologies, even if it is just scratching the surface of them, I want to enter into the field of Data Science and combine it with the deegre of Industrial Engineering

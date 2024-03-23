@@ -10,5 +10,3 @@
 - SQL / MySQL / ORM Sequelize
 - React
 - Webpack and its common dependencies
-
-After learning these technologies, even if it is just scratching the surface of them, I want to enter into the field of Data Science and combine it with the deegre of Industrial Engineering

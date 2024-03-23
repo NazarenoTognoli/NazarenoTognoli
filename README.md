@@ -8,5 +8,6 @@
 - HTML, CSS, Javascript
 - Node and Express
 - SQL / MySQL / ORM Sequelize
+- MongoDB / Mongoose
 - React
 - Webpack and its common dependencies

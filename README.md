@@ -5,9 +5,8 @@
 - I'm constantly learning new things and working hard to improve a broad range of skills
 - I am deeply committed to enhancing my skills both as a programmer and as an individual, encompassing a diverse range of knowledge beyond just software development.
 ## My technology stack, for those interested, includes:
-- HTML, CSS, Javascript
-- Node and Express
-- SQL / MySQL / ORM Sequelize
-- MongoDB / Mongoose
-- React
-- Webpack and its common dependencies
+- HTML / CSS / Javascript
+- Node / Express
+- SQL / MySQL / Sequelize ORM
+- MongoDB / Mongoose ORM
+- React / Webpack and its common dependencies

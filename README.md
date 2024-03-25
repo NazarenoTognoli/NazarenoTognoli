@@ -9,4 +9,5 @@
 - Node / Express
 - SQL / MySQL / Sequelize ORM
 - MongoDB / Mongoose ORM
+- Tailwind
 - React / Webpack and its common dependencies

@@ -10,4 +10,4 @@
 - SQL / Sequelize ORM
 - MongoDB / Mongoose ORM
 - Tailwind CSS
-- React / Webpack and its common dependencies
+- React / Redux Toolkit / Webpack and its common dependencies

@@ -6,8 +6,9 @@
 - I am deeply committed to enhancing my skills both as a programmer and as an individual, encompassing a diverse range of knowledge beyond just software development.
 ## My technology stack, for those interested, includes:
 - HTML / CSS / Javascript
-- Node / Express / Next
+- Node / Express
 - SQL / Sequelize ORM
 - MongoDB / Mongoose ORM
-- Tailwind CSS
+- Angular
+- .NET
 - React / Redux Toolkit / Webpack and its common dependencies

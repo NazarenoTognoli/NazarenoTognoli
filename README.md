@@ -1,5 +1,5 @@
 ## Nazareno Tognoli
-<img src="here2.jpg"></img>
+<img src="1014.jpg"></img>
 ## About me:
 - I am currently working on self-directed projects, with some of them being publicly available in my repositories. I aim to showcase my skills and experience through these projects.
 - I'm constantly learning new things and working hard to improve a broad range of skills

@@ -1,6 +1,5 @@
 ## Nazareno Tognoli
 ## My technology stack includes:
 - HTML / CSS / Javascript
-- Node / Express
-- SQL / Sequelize ORM
+- Angular
 - React / Redux Toolkit / Webpack and its common dependencies

@@ -9,4 +9,4 @@
 - Angular
 - React
 
-- Experience in Angular Material, Redux Toolkit
+- Experience with Angular Material, Redux Toolkit

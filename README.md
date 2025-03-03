@@ -1,8 +1,12 @@
 ## Nazareno Tognoli
 ## Technology stack includes:
-- HTML / CSS / Javascript
-- Angular
-- React / Redux Toolkit / Webpack and its common dependencies
+
+- HTML
+- CSS
 - Sass
-- Angular Material
-- Material UI
+- Javascript
+- Typescript
+- Angular
+- React
+
+- Experience in Angular Material, Redux Toolkit

@@ -3,7 +3,7 @@
 
 - HTML
 - CSS
-- Sass
+- SCSS
 - Javascript
 - Typescript
 - Angular

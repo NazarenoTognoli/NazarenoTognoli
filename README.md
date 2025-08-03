@@ -1,12 +1,7 @@
-## Nazareno Tognoli
-## Technology stack includes:
 
-- HTML
-- CSS
-- SCSS
-- Javascript
-- Typescript
+## Technology stack:
+- HTML, CSS/SCSS
+- Javascript/Typescript
 - Angular
-- React
-
-- Experience with Angular Material, Redux Toolkit
+- NodeJS/ExpressJS
+- SQL/MySQL/MariaDb

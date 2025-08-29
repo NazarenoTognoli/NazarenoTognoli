@@ -3,5 +3,6 @@
 - HTML, CSS/SCSS
 - Javascript/Typescript
 - Angular
-- NodeJS/ExpressJS
-- SQL/MySQL/MariaDb
+- C#
+- ASP.NET Core
+- SQL/MySQL/MariaDb/EF Core
